@@ -5,19 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Minugenty&label=Views&color=blue&style=plastic&style=for-the-badge" alt="Minugenty" /> </p>
 
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**Minugenty/Minugenty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Data Science and Analysis on Time Series data.
+- 🌱 I’m currently learning Cloud technologies and Python.
+- 💬 Ask me about data and learning.
+- 📫 How to reach me: My socials!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minugenty/) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC8UN5r2ksley9GuHmF7oWgw) [![XING](https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white)]([https://twitter.com/iamsumat](https://www.xing.com/profile/Minu_Genty/))

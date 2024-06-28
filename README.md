@@ -1,3 +1,10 @@
+<h1 align="center"> Hello, I'm Minu!<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /></h1>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Minugenty&label=Views&color=blue&style=plastic&style=for-the-badge" alt="Minugenty" /> </p>
+
 ## Hi there 👋
 
 <!--
